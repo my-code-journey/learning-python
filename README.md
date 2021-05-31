@@ -1,5 +1,5 @@
 <img src="https://www.python.org/static/img/python-logo.png">
-# learning python <img src="https://pbs.twimg.com/profile_images/439154912719413248/pUBY5pVj_normal.png">
+# learning python
 
 ## What is Python?
 
